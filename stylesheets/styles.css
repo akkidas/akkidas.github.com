@@ -6,6 +6,7 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Georgia, sans-serif;
   color:#777;
   font-weight:300;
+  background: #f5f5f5 url('../images/bg.gif') fixed ;
 }
 
 h1, h2, h3, h4, h5, h6 {
