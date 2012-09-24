@@ -256,3 +256,15 @@ footer {
     color:#444;
   }
 }
+
+#photos a{
+  color: blue;
+  
+}
+#photos img {
+  margin: 5px;
+  padding: 10px;
+}
+p.view a{
+  margin: 3px;
+}
