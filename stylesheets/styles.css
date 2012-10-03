@@ -268,3 +268,6 @@ footer {
 p.view a{
   margin: 3px;
 }
+p.quote{
+  font-style: italic;
+}
